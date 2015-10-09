@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "master_collection.js",
+  "sourceRoot": "",
+  "sources": [
+    "master_collection.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA;;;EAAM,GAAG,CAAC,UAAU,CAAC;;;;;;;;;KAAyB,QAAQ,CAAC;AAAvD"
+}

@@ -1,0 +1,1 @@
+class App.Collection.MasterCollection extends Backbone.Collection

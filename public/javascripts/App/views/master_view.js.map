@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "master_view.js",
+  "sourceRoot": "",
+  "sources": [
+    "master_view.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA;;;EAAM,GAAG,CAAC,IAAI,CAAC;;;;;;;yBAEb,UAAA,GAAY,SAAA,GAAA;;yBAEZ,MAAA,GAAQ,SAAA,GAAA;;;;KAJwB,QAAQ,CAAC;AAA3C"
+}

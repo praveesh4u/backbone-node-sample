@@ -1,0 +1,24 @@
+doctype html
+html
+  head
+    title= title
+    link(rel='stylesheet', href='/stylesheets/bootstrap.css')
+    link(rel='stylesheet', href='/stylesheets/style.css')
+
+  body
+    block content
+      #test-view
+
+    script(src="javascripts/lib/jquery-2.1.3.min.js")
+    script(src="javascripts/lib/bootstrap.min.js")
+    script(src="javascripts/lib/jquery-ui.js")
+    script(src="javascripts/lib/underscore.js")
+    script(src="javascripts/lib/backbone.js")
+    script(src="javascripts/App/index.js")
+
+    script(src="javascripts/App/moldels/master_model.js")
+    script(src="javascripts/App/moldels/user.js")
+    script(src="javascripts/App/views/master_view.js")
+    script(src="javascripts/App/views/user.js")
+    script(src="javascripts/app_bootstrap.js")
+
