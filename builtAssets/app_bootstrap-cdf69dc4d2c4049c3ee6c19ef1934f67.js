@@ -1,0 +1,1 @@
+(function(){$(document).ready(function(){console.log("The bootstrap script is in place")})}).call(this);

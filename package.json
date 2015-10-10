@@ -29,6 +29,7 @@
     "mysql": "~2.9.0",
     "sequelize-cli": "~1.7.4",
     "coffee-script": "~1.9.3",
-    "js2coffee": "~2.1.0"
+    "js2coffee": "~2.1.0",
+    "connect-assets": "~5.0.1"
   }
 }

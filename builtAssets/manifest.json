@@ -1,0 +1,48 @@
+{
+  "assets": {
+    "App.js": "App-6f57ca6553d8a432a959679b76630349.js",
+    "App.js.map": "App.js-9cef5fcd3ba1148b23a1e28cf86c81d8.map",
+    "app_bootstrap.js": "app_bootstrap-cdf69dc4d2c4049c3ee6c19ef1934f67.js",
+    "application.js": "application-5925217835b1de93330a54ad06b70565.js",
+    "bootstrap.css": "bootstrap-8ff6ea2bf4b4649343aba50e0f3dcd1d.css",
+    "style.css": "style-9eaf8748a208ee87562f2dde90ea128b.css"
+  },
+  "files": {
+    "App-6f57ca6553d8a432a959679b76630349.js": {
+      "logical_path": "App.js",
+      "mtime": "2015-10-04T15:18:33.000Z",
+      "size": 285,
+      "digest": "6f57ca6553d8a432a959679b76630349"
+    },
+    "App.js-9cef5fcd3ba1148b23a1e28cf86c81d8.map": {
+      "logical_path": "App.js.map",
+      "mtime": "2015-08-23T04:41:23.000Z",
+      "size": 229,
+      "digest": "9cef5fcd3ba1148b23a1e28cf86c81d8"
+    },
+    "app_bootstrap-cdf69dc4d2c4049c3ee6c19ef1934f67.js": {
+      "logical_path": "app_bootstrap.js",
+      "mtime": "2015-10-04T15:38:21.000Z",
+      "size": 104,
+      "digest": "cdf69dc4d2c4049c3ee6c19ef1934f67"
+    },
+    "application-5925217835b1de93330a54ad06b70565.js": {
+      "logical_path": "application.js",
+      "mtime": "2015-10-10T05:01:53.000Z",
+      "size": 400977,
+      "digest": "5925217835b1de93330a54ad06b70565"
+    },
+    "bootstrap-8ff6ea2bf4b4649343aba50e0f3dcd1d.css": {
+      "logical_path": "bootstrap.css",
+      "mtime": "2015-06-16T10:42:50.000Z",
+      "size": 122511,
+      "digest": "8ff6ea2bf4b4649343aba50e0f3dcd1d"
+    },
+    "style-9eaf8748a208ee87562f2dde90ea128b.css": {
+      "logical_path": "style.css",
+      "mtime": "2015-08-22T14:07:57.000Z",
+      "size": 87,
+      "digest": "9eaf8748a208ee87562f2dde90ea128b"
+    }
+  }
+}

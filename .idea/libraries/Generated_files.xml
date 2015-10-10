@@ -2,47 +2,55 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/assets/js/application.js" />
         <item url="file://$PROJECT_DIR$/models/tasktest.js" />
         <item url="file://$PROJECT_DIR$/models/bankwithdrawal.js" />
         <item url="file://$PROJECT_DIR$/migrations/20150927185623-create-task-test.js" />
-        <item url="file://$PROJECT_DIR$/migrations/20150927185818-create-bank-withdrawal.js" />
         <item url="file://$PROJECT_DIR$/models/task.js" />
-        <item url="file://$PROJECT_DIR$/public/javascripts/app_bootstrap.js" />
-        <item url="file://$PROJECT_DIR$/public/javascripts/App/models/user.js" />
+        <item url="file://$PROJECT_DIR$/migrations/20150927185818-create-bank-withdrawal.js" />
+        <item url="file://$PROJECT_DIR$/assets/js/app_bootstrap.js" />
+        <item url="file://$PROJECT_DIR$/assets/js/App/models/user.js" />
         <item url="file://$PROJECT_DIR$/models/index.js" />
         <item url="file://$PROJECT_DIR$/migrations/20150913091704-create-task.js" />
         <item url="file://$PROJECT_DIR$/models/user.js" />
         <item url="file://$PROJECT_DIR$/migrations/20150823185707-create-user.js" />
         <item url="file://$PROJECT_DIR$/migrations/20150913092043-Relation_bw_task_user.js" />
-        <item url="file://$PROJECT_DIR$/public/javascripts/App/views/master_view.js" />
-        <item url="file://$PROJECT_DIR$/public/javascripts/App/models/master_model.js" />
-        <item url="file://$PROJECT_DIR$/public/javascripts/App/index.js" />
+        <item url="file://$PROJECT_DIR$/assets/js/App/models/master_model.js" />
+        <item url="file://$PROJECT_DIR$/assets/js/App/views/master_view.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/connect-assets/node_modules/mincer/examples/assets/javascripts/app.js.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/connect-assets/node_modules/mincer/node_modules/shellwords/src/shellwords.js" />
+        <item url="file://$PROJECT_DIR$/assets/js/App/index.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/connect-assets/node_modules/mincer/node_modules/shellwords/spec/shellwords_spec.js" />
         <item url="file://$PROJECT_DIR$/routes/users.js" />
-        <item url="file://$PROJECT_DIR$/public/javascripts/App/collections/master_collection.js" />
-        <item url="file://$PROJECT_DIR$/public/javascripts/App/views/user.js" />
+        <item url="file://$PROJECT_DIR$/assets/js/App/collections/master_collection.js" />
+        <item url="file://$PROJECT_DIR$/assets/js/App/views/user.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/public/javascripts/App/models/master_view.js" />
       <root url="file://$PROJECT_DIR$/public/javascripts/App/models/master_view.js" />
+      <root url="file://$PROJECT_DIR$/assets/js/application.js" />
       <root url="file://$PROJECT_DIR$/models/tasktest.js" />
       <root url="file://$PROJECT_DIR$/models/bankwithdrawal.js" />
       <root url="file://$PROJECT_DIR$/migrations/20150927185623-create-task-test.js" />
-      <root url="file://$PROJECT_DIR$/migrations/20150927185818-create-bank-withdrawal.js" />
       <root url="file://$PROJECT_DIR$/models/task.js" />
-      <root url="file://$PROJECT_DIR$/public/javascripts/app_bootstrap.js" />
-      <root url="file://$PROJECT_DIR$/public/javascripts/App/models/user.js" />
+      <root url="file://$PROJECT_DIR$/migrations/20150927185818-create-bank-withdrawal.js" />
+      <root url="file://$PROJECT_DIR$/assets/js/app_bootstrap.js" />
+      <root url="file://$PROJECT_DIR$/assets/js/App/models/user.js" />
       <root url="file://$PROJECT_DIR$/models/index.js" />
       <root url="file://$PROJECT_DIR$/migrations/20150913091704-create-task.js" />
       <root url="file://$PROJECT_DIR$/models/user.js" />
       <root url="file://$PROJECT_DIR$/migrations/20150823185707-create-user.js" />
       <root url="file://$PROJECT_DIR$/migrations/20150913092043-Relation_bw_task_user.js" />
-      <root url="file://$PROJECT_DIR$/public/javascripts/App/views/master_view.js" />
-      <root url="file://$PROJECT_DIR$/public/javascripts/App/models/master_model.js" />
-      <root url="file://$PROJECT_DIR$/public/javascripts/App/index.js" />
+      <root url="file://$PROJECT_DIR$/assets/js/App/models/master_model.js" />
+      <root url="file://$PROJECT_DIR$/assets/js/App/views/master_view.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/connect-assets/node_modules/mincer/examples/assets/javascripts/app.js.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/connect-assets/node_modules/mincer/node_modules/shellwords/src/shellwords.js" />
+      <root url="file://$PROJECT_DIR$/assets/js/App/index.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/connect-assets/node_modules/mincer/node_modules/shellwords/spec/shellwords_spec.js" />
       <root url="file://$PROJECT_DIR$/routes/users.js" />
-      <root url="file://$PROJECT_DIR$/public/javascripts/App/collections/master_collection.js" />
-      <root url="file://$PROJECT_DIR$/public/javascripts/App/views/user.js" />
+      <root url="file://$PROJECT_DIR$/assets/js/App/collections/master_collection.js" />
+      <root url="file://$PROJECT_DIR$/assets/js/App/views/user.js" />
     </CLASSES>
     <SOURCES />
   </library>

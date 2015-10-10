@@ -25,6 +25,8 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
+var connectAssetOptions = { build: true,};
+app.use(require("connect-assets")(connectAssetOptions));
 
 app.use('/', routes);
 app.use('/users', users);

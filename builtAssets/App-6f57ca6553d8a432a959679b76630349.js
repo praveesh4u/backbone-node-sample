@@ -1,0 +1,1 @@
+(function(){var e;window.App={Model:{},View:{},Collection:{}},e=Backbone.Router.extend({routes:{users:"allUsers","users/:id":"getUser"},allUsers:function(){return console.log("All users function called")},getUser:function(){return console.log("Single user function!!")}})}).call(this);
