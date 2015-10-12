@@ -1,13 +1,9 @@
+JSONRenderer = require '../lib/jsonRenderer'
+User = GLOBAL.db.User
 
-express = require('express')
-router = express.Router()
-#User = GLOBAL.db.models.User
+module.exports = (router)->
 
-### GET home page. ###
-
-router.get '/', (req, res, next) ->
-  User = GLOBAL.db.User
-  console.log User
-  User.findAll().then (result)->
-      res.json result
-module.exports = router
+	router.get '/users', (req,res,next)->
+	  console.log 'Hello Users'
+	  User.findAll().then (users)->
+    	res.json JSONRenderer.users users

@@ -30,6 +30,8 @@
     "sequelize-cli": "~1.7.4",
     "coffee-script": "~1.9.3",
     "js2coffee": "~2.1.0",
-    "connect-assets": "~5.0.1"
+    "connect-assets": "~5.0.1",
+    "passport": "~0.3.0",
+    "express-form": "~0.12.4"
   }
 }

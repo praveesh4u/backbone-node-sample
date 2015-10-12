@@ -13,7 +13,7 @@
 
   env = process.env.NODE_ENV || 'development';
 
-  config = require(__dirname + '/../config/config.json')[env];
+  config = GLOBAL.appConfig().mysql;
 
   sequelize = new Sequelize(config.database, config.username, config.password, config);
 

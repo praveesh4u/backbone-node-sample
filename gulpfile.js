@@ -15,7 +15,8 @@ var jsSources =[
     './public/javascripts/App/**/*.js'
 ];
 var coffeeSources =[
-    './public/javascripts/App/**/*.coffee'
+    './public/javascripts/App/**/*.coffee',
+    './routes/*.coffee'
 ];
 gulp.task('indent',function(){
     gulp.src(jsSources)
@@ -23,21 +24,27 @@ gulp.task('indent',function(){
             tabs:true,
             amount:2
         })).pipe(debug())
-        .pipe(gulp.dest("."));
+        .pipe(gulp.dest('.'));
 });
 
 gulp.task('beautify',function(){
         gulp.src(jsSources)
             .pipe(beautify({indentSize: 2}))
             .pipe(debug())
-            .pipe(gulp.dest('./public/javascripts/App'));
+            .pipe(gulp.dest('.'));
 });
 
 gulp.task('coffee',function(){
-   gulp.src(coffeeSources)
+   gulp.src(coffeeSources,{ base: "." })
        .pipe(coffee({bare:false}).
         on('error',gutil.log))
-       .pipe(gulp.dest('./public/javascripts/App'));
+       .pipe(gulp.dest('.'));
 
 
 });
+
+gulp.task('watch',function(){
+   gulp.watch(coffeeSources,['coffee']); 
+});
+
+gulp.task('default',['coffee','watch']);

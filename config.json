@@ -1,0 +1,32 @@
+{
+  "development":{
+    "mysql":{
+      "username": "root",
+      "password": null,
+      "database": "bb_1",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    }
+  },
+  "production": {
+    "mysql":{
+      "username": "root",
+      "password": null,
+      "database": "bb_1",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+
+    }
+
+  },
+  "test":{
+    "mysql":{
+      "username": "root",
+      "password": null,
+      "database": "bb_1",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    }
+
+  }
+}
